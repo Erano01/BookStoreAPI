@@ -12,7 +12,7 @@ BookStoreApi is a production-ready book sales API developed using Spring Boot.
 1. **Requirements:** Java 11+, Maven, Docker, and Git must be installed.
 2. **Clone the Project:** 
    ```bash
-   git clone https://github.com/username/BookStoreApi.git
+   git clone https://github.com/Erano01/BookStoreApi.git
 
 #Configuration: 
 Edit the application.properties file.
